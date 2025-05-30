@@ -1,0 +1,109 @@
+{
+  "products": [
+    {
+      "name": "French Oud",
+      "category": "Unisex",
+      "size": "100ml",
+      "price": 100,
+      "stock": 4
+    },
+    {
+      "name": "Amber Musk",
+      "category": "Women",
+      "size": "100ml",
+      "price": 120,
+      "stock": 3
+    },
+    {
+      "name": "White Rose",
+      "category": "Women",
+      "size": "50ml",
+      "price": 90,
+      "stock": 10
+    },
+    {
+      "name": "Oud Al Layl",
+      "category": "Men",
+      "size": "100ml",
+      "price": 150,
+      "stock": 4
+    },
+    {
+      "name": "Dehn Al Oudh",
+      "category": "Unisex",
+      "size": "100ml",
+      "price": 200,
+      "stock": 2
+    },
+    {
+      "name": "Midnight Rose",
+      "category": "Women",
+      "size": "50ml",
+      "price": 110,
+      "stock": 6
+    },
+    {
+      "name": "Arabian Jasmine",
+      "category": "Unisex",
+      "size": "100ml",
+      "price": 95,
+      "stock": 7
+    },
+    {
+      "name": "Royal Saffron",
+      "category": "Men",
+      "size": "100ml",
+      "price": 180,
+      "stock": 3
+    },
+    {
+      "name": "Musk Tahara",
+      "category": "Women",
+      "size": "50ml",
+      "price": 85,
+      "stock": 9
+    },
+    {
+      "name": "Floral Breeze",
+      "category": "Unisex",
+      "size": "100ml",
+      "price": 70,
+      "stock": 12
+    },
+    {
+      "name": "Sandalwood Spice",
+      "category": "Men",
+      "size": "100ml",
+      "price": 130,
+      "stock": 4
+    },
+    {
+      "name": "Oud Mood",
+      "category": "Unisex",
+      "size": "100ml",
+      "price": 140,
+      "stock": 5
+    },
+    {
+      "name": "Velvet Rose",
+      "category": "Women",
+      "size": "50ml",
+      "price": 100,
+      "stock": 6
+    },
+    {
+      "name": "Intense Leather",
+      "category": "Men",
+      "size": "100ml",
+      "price": 160,
+      "stock": 1
+    },
+    {
+      "name": "Woody Amber",
+      "category": "Unisex",
+      "size": "100ml",
+      "price": 125,
+      "stock": 5
+    }
+  ]
+}
