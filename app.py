@@ -152,7 +152,7 @@ elif st.session_state.mode == "admin":
         password = st.text_input("Enter admin password", type="password")
         if password == "perfumes":
             st.session_state.authenticated = True
-            st.experimental_rerun()
+            st.rerun()
         else:
             st.stop()
 
